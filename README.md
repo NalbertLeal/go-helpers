@@ -7,60 +7,60 @@ After implement lodash funciontion in golang i plan to implement funcitions to s
 LodashJs implemented:
 
 - Array 
- - [] _.chunk ==> array.Chunk
- - [] _.compact ==> array.Compact
- - [] _.concat ==> array.Concat
- - [] _.difference ==> array.Difference
- - [] _.differenceBy ==> array.DiffenrenceByIterrator AND array.DifferenceByMapKey
- - [] _.differenceWith ==> array.
- - [] _.drop ==> array.
- - [] _.dropRight ==> array.
- - [] _.dropRightWhile ==> array.
- - [] _.dropWhile ==> array.
- - [] _.fill ==> array.
- - [] _.findIndex ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
- - []  ==> array.
+  - [] _.chunk ==> array.Chunk
+  - [] _.compact ==> array.Compact
+  - [] _.concat ==> array.Concat
+  - [] _.difference ==> array.Difference
+  - [] _.differenceBy ==> array.DiffenrenceByIterrator AND array.DifferenceByMapKey
+  - [] _.differenceWith ==> array.
+  - [] _.drop ==> array.
+  - [] _.dropRight ==> array.
+  - [] _.dropRightWhile ==> array.
+  - [] _.dropWhile ==> array.
+  - [] _.fill ==> array.
+  - [] _.findIndex ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
+  - []  ==> array.
