@@ -12,55 +12,55 @@ Lodash implemented functions:
   - [x] _.concat ==> array.Concat
   - [x] _.difference ==> array.Difference
   - [x] _.differenceBy ==> array.DiffenrenceByIterrator AND array.DifferenceByMapKey
-  - [] _.differenceWith ==> array.
-  - [] _.drop ==> array.
-  - [] _.dropRight ==> array.
-  - [] _.dropRightWhile ==> array.
-  - [] _.dropWhile ==> array.
-  - [] _.fill ==> array.
-  - [] _.findIndex ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
-  - []  ==> array.
+  - [ ] _.differenceWith ==> array.
+  - [ ] _.drop ==> array.
+  - [ ] _.dropRight ==> array.
+  - [ ] _.dropRightWhile ==> array.
+  - [ ] _.dropWhile ==> array.
+  - [ ] _.fill ==> array.
+  - [ ] _.findIndex ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
+  - [ ]  ==> array.
