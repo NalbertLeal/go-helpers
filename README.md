@@ -2,9 +2,9 @@
 #### A package inspired on lodash but written in Go.
 
 Created to increase my skills with nvim and at same time create a usable package to the community.
-After implement lodash funciontion in golang i plan to implement funcitions to specific go patterns (cocurency design patterns for example).
+After implement lodash funcions in golang i plan to implement to specific go functions and patterns (like concurrency design patterns for example).
 
-Lodash implemented functions:
+Lodash functions:
 
 - Array: 
   - [x] _.chunk ==> array.Chunk
