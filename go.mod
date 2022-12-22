@@ -1,3 +1,3 @@
-module github.com/NalbertLeal/go-lodash
+module github.com/NalbertLeal/go-helpers
 
 go 1.19

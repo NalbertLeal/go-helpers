@@ -1,17 +1,17 @@
-# GO-LODASH
-#### A package inspired on lodashJS but written in Go.
+# GO-HELPERS
+#### A package inspired on lodash but written in Go.
 
 Created to increase my skills with nvim and at same time create a usable package to the community.
 After implement lodash funciontion in golang i plan to implement funcitions to specific go patterns (cocurency design patterns for example).
 
-LodashJs implemented:
+Lodash implemented functions:
 
-- Array 
-  - [] _.chunk ==> array.Chunk
-  - [] _.compact ==> array.Compact
-  - [] _.concat ==> array.Concat
-  - [] _.difference ==> array.Difference
-  - [] _.differenceBy ==> array.DiffenrenceByIterrator AND array.DifferenceByMapKey
+- Array: 
+  - [x] _.chunk ==> array.Chunk
+  - [x] _.compact ==> array.Compact
+  - [x] _.concat ==> array.Concat
+  - [x] _.difference ==> array.Difference
+  - [x] _.differenceBy ==> array.DiffenrenceByIterrator AND array.DifferenceByMapKey
   - [] _.differenceWith ==> array.
   - [] _.drop ==> array.
   - [] _.dropRight ==> array.
