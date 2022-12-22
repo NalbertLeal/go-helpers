@@ -1,4 +1,4 @@
-package array
+package slice
 
 func Concat[data any](a []data, b []data) []data {
     result := make([]data, len(a)+len(b))

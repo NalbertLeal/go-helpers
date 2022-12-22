@@ -1,4 +1,4 @@
-package array
+package slice
 
 func Difference[data comparable](a []data, b []data) []data {
     result := []data{}

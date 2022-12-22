@@ -1,4 +1,4 @@
-package array
+package slice
 
 func Compact[data comparable](arr []data) []data {
     var zero data

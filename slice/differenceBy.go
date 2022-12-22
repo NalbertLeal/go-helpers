@@ -1,4 +1,4 @@
-package array
+package slice
 
 func DiffenrenceByIterrator[dataIn any, dataComp comparable](arr1 []dataIn, arr2 []dataIn, iteratee func(dataIn) dataComp) []dataIn {
 	result := []dataIn{}
