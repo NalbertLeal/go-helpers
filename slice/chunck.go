@@ -4,7 +4,16 @@ import (
 	"math"
 )
 
-func chunck[data any](arr []data, others ...int) [][]data {
+// Divide an slice elements into chuncks, each chunck is represented by a
+// integer number that idicate the number of elements to be inserted into
+// that chunck. Example:
+//		Chunck(someSlice, []int{3, 9, 5})
+// the example above divide the elements of slice **someSlice** into at least
+// 3 chunks, the first have 3 elements, the second 9 and the third 5. If the
+// slice **someSlice** have more elements than the number alocated (in the
+// example 3+9+5 elements) then all the non-allocated elements are inserted
+// into another chunck (in the example a fourth chunck).
+func Chunck[data any](arr []data, others ...int) [][]data {
 	var size int
 	if len(others) > 0 {
 		size = others[0]
